@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhrysJames
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS: Security Engineering
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me : email
 - 😄 Pronouns: 
