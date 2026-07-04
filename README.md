@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning AWS: Security Engineering
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me : email
+- 📫 How to reach me : www.linkedin.com/in/khrys-james
 - 😄 Pronouns: 
 - ⚡ Fun fact: Loves Ramen
 
