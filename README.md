@@ -21,9 +21,9 @@ Future Lead SOC Analyst | Certified in Security+, AWS, Google Cybersecurity and 
 <h2>👨‍💻 Cloud Security and Coding Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AWS)</b>
-  - [Praciting DS & Algos in Python](https://github.com/KhrysJames)
+  - [Practicing DS & Algos in Python](https://github.com/KhrysJames)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/KhrysJames) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/KhrysJames) <b><i>(JDK)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/KhrysJames)
   - [JWipe (Disk Wiping Utility)](https://github.com/KhrysJames)
