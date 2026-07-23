@@ -29,8 +29,8 @@ Future Lead SOC Analyst | Certified in Security+, AWS, Google Cybersecurity and 
   - [JWipe (Disk Wiping Utility)](https://github.com/KhrysJames)
   - [Active Directory Bulk User Creation](https://github.com/KhrysJames)
   - [FIM (File Integrity Monitor)](https://github.com/KhrysJames)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/KhrysJames)
+- <b>Linux Labs </b>
+  - [SQL Queries (Filters)](https://github.com/KhrysJames/LinuxLab/tree/main)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/KhrysJames)
   - [Keylogger with Email Capability](https://github.com/KhrysJames)
 - <b>Python</b>
