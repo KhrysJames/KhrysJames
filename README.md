@@ -31,7 +31,7 @@ Future Lead SOC Analyst | Certified in Security+, AWS, Google Cybersecurity and 
   - [FIM (File Integrity Monitor)](https://github.com/KhrysJames)
 - <b>Linux Labs </b>
   - [SQL Queries (Filters)](https://github.com/KhrysJames/LinuxLab/tree/main)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/KhrysJames)
+  - [Distributing File Permissions (CMD Line)](https://github.com/KhrysJames/File-Permission/blob/main/README.md)
   - [Keylogger with Email Capability](https://github.com/KhrysJames)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/KhrysJames/Python)
