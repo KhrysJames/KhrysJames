@@ -22,6 +22,12 @@ Future Lead SOC Analyst | Certified in Security+, AWS, Google Cybersecurity and 
 
 - <b>Data Structures and Algorithms Practice (AWS)</b>
   - [Practicing DS & Algos in Python](https://github.com/KhrysJames)
+- <b>Linux Labs </b>
+  - [SQL Queries (Filters)](https://github.com/KhrysJames/LinuxLab/tree/main)
+  - [Distributing File Permissions (CMD Line)](https://github.com/KhrysJames/File-Permission/blob/main/README.md)
+  - [Keylogger with Email Capability](https://github.com/KhrysJames)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/KhrysJames/Python)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/KhrysJames) <b><i>(JDK)</b></i>
 - <b>PowerShell</b>
@@ -29,9 +35,3 @@ Future Lead SOC Analyst | Certified in Security+, AWS, Google Cybersecurity and 
   - [JWipe (Disk Wiping Utility)](https://github.com/KhrysJames)
   - [Active Directory Bulk User Creation](https://github.com/KhrysJames)
   - [FIM (File Integrity Monitor)](https://github.com/KhrysJames)
-- <b>Linux Labs </b>
-  - [SQL Queries (Filters)](https://github.com/KhrysJames/LinuxLab/tree/main)
-  - [Distributing File Permissions (CMD Line)](https://github.com/KhrysJames/File-Permission/blob/main/README.md)
-  - [Keylogger with Email Capability](https://github.com/KhrysJames)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/KhrysJames/Python)
